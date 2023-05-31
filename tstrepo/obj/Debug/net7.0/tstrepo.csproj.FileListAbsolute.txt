@@ -1,0 +1,15 @@
+C:\repo\tstrepo\tstrepo\bin\Debug\net7.0\tstrepo.exe
+C:\repo\tstrepo\tstrepo\bin\Debug\net7.0\tstrepo.deps.json
+C:\repo\tstrepo\tstrepo\bin\Debug\net7.0\tstrepo.runtimeconfig.json
+C:\repo\tstrepo\tstrepo\bin\Debug\net7.0\tstrepo.dll
+C:\repo\tstrepo\tstrepo\bin\Debug\net7.0\tstrepo.pdb
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.csproj.AssemblyReference.cache
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.AssemblyInfoInputs.cache
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.AssemblyInfo.cs
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.csproj.CoreCompileInputs.cache
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.dll
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\refint\tstrepo.dll
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.pdb
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\tstrepo.genruntimeconfig.cache
+C:\repo\tstrepo\tstrepo\obj\Debug\net7.0\ref\tstrepo.dll
